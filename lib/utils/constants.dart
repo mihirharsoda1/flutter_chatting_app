@@ -5,10 +5,6 @@ class AppConstants {
   static const String appName = 'Flutter Chat';
   static const String appVersion = '1.0.0';
 
-  // Add these to AppConstants
-  // static const int callTimeoutSeconds = 60; // Call rings for 60 seconds
-  // static const bool notifyWhenAppRunningInBackgroundOrQuit = true;
-
   // Make sure these are correct
   static const int zegoAppID = 1881066074; // Your actual App ID
   static const String zegoAppSign =
